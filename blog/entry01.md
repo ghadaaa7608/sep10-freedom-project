@@ -8,13 +8,19 @@ Some of the websites that I've found pretty useful so far was https://www.(crowc
 
 ## EDP
 ---
-As of right now, I have so far looked through what topics interested me like archaeology as I said previously, architecture, and hospitality. But like I said before I finally decided on doing archaeology for my freedom project. Then I did some research on how archaeology ties in with **_technology/computer science/software/ect_**. I found out all sorts of cool website with info on archaeology and tech like I had mentioned in the intro, so that kind of gave me a good gist on what this freedom project will exactly gonna be on.
+As of right now, I have so far looked through what topics interested me like archaeology as I said previously, architecture, and hospitality. But like I said before I finally decided on doing archaeology for my freedom project. Then I did some research on how archaeology ties in with _technology/computer science/software/ect_. I found out all sorts of cool website with info on archaeology and tech like I had mentioned in the intro, so that kind of gave me a good gist on what this freedom project will exactly gonna be on.
 
 ## Skills
 ---
-A Certain skill I've learned to take note on coincidently is literally taking notes. I've already written so many notes in my SEP notes doc for the year, and I gotta say that it's helped a lot. Its helped me with memorizing what we've done throughout the beginning of september up until unit 1, and I know for sure that it'll help me in the future if I've lost track and need to catch up. I've also learned through past students in SEP who took hundreds of notes when they weren't catched up, and they ended up being just fine. 
+A Certain skill I've learned to take note on coincidently is literally **taking notes**. I've already written so many notes in my SEP notes doc for the year, and I gotta say that it's helped a lot. Its helped me with memorizing what we've done throughout the beginning of september up until unit 1, and I know for sure that it'll help me in the future if I've lost track and need to catch up. I've also learned through past students in SEP who took hundreds of notes when they weren't catched up, and they ended up being just fine.
 
-Another skill that I've learned to keep in mind is organization, which kind of ties in note taking. While I take notes, I've learned s about organization through indented bullet points, highlighting , _italic_ , **bold**, ect. Let me tell you, these ways literally changed my perspective on note taking and on how to be an organized person, without them I would've done regular bulleted points.   
+Another skill that I've learned to keep in mind is **organization**, which kind of ties in note taking. While I take notes, I've learned  about organization through indented bullet points, highlighting , _italic_ , **bold**, ect. Let me tell you, these ways literally changed my perspective on note taking and on how to be an organized person, without them I would've done regular bulleted points. Also looking through my notes would be way too confusing and stressful.   
+
+Also the phrase _**"work smarter, not harder"**_ is a key detail that I've followed and adopted throughout SEP class, thanks to Mr.Mueller constantly mentioning it.
+
+## Summary
+---
+To sum it up, I hope I'll be having a good time with researching about how my dream job ties in with what we're learning in SEP, and also with what we're learning in SEP in general. And hopefully, this class will help me gain much more technological skills that will be useful in the future.
 
 
 
