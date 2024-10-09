@@ -6,9 +6,11 @@ The topic I decided to do for the freedom project is **archaeology**, since I've
 
 Some of the websites that I've found pretty useful so far was https://www.(crowcanyon.org)/education/learn-about-archaeology/science-technology-in-archaeology/ and https://www.(captechu.edu)/blog/how-ai-and-technology-is-revolutionizing-archeology. The first website gave me some info on what technology is used to identify artifacts like microscopes. While the second link taught me how AI can be used to create 3D models for archaeologists.
 
-#EDP
+## EDP
+---
+As of right now, I have so far looked through what topics interested me like archaeology as I said previously, architecture, and hospitality. But like I said before I finally decided on doing archaeology for my freedom project. Then I did some research on how archaeology ties in with **_technology/computer science/software/ect_**. I found out all sorts of cool website with info on archaeology and tech like I had mentioned in the intro, so that kind of gave me a good gist on what this freedom project will exactly gonna be on.
 
-
+## Skills
 
 
 
