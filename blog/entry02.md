@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2:
+##### 11/4/24
 
 Text
 
