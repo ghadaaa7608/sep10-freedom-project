@@ -36,7 +36,7 @@ One of the skills I've now adapted is just cutting straight to the point in my g
 
 Another skill I've learned is to use the #webdesign server on slack whenever I'm stuck with a homework assignment, or just talk to somebody who's already done with the work/just knows what to do. This is because I've learned to do that through doing my CSS challenges or homework assignments that we were given, and I ended up being on the same page as those kids. It really did make me feel like everything was going to be okay as long as I had to just send a little message to my classmates giving a little rant about what I was stuck on, and they knew exactly what to respond back with.
 ### Summary
-All I've got to say now is that I hope that I do take advantage of these useful strategies that I've adapted throughout the first unit of SEP10, 
+All I've got to say now is that I really do hope that I will take advantage of these useful strategies that I've adapted throughout the first unit of SEP10 in order to make this class easy for me, since I have been regretting signing up for it recently because of the extra stress it has caused me, and also to think about how this will help me with college. 
 
 | [Previous](entry01.md)[Next](entry03.md)
 
