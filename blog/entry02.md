@@ -32,7 +32,9 @@ And for my last search which was "_What kind of devices do people in archaeology
 ### EDP (Engineering Design Process)
 So far, in my Engineering Design Process, I figured out what topic I will be doing for the freedom project, being archaeology, searching up how it connected with SEP related things. I have now done tons of google searches about both **_archaeological software/apps, and hardware/gadgets_**, and I also took lots of notes throughout my google searching on the [SEP10 NOTES](https://docs.google.com/document/d/1tBU2sZEM4YFTHtE91UQto2EUElyU7UPzGTHyff7rLcI/edit?tab=t.0) google doc. This has helped me find out what kind of stuff I'll be mentioning on my final website for the freedom project through giving me pretty significant details on how archaeology connects with SEP. 
 ### Skills
+One of the skills I've now adapted is just cutting straight to the point in my google searched by using specific key-words or phrases, such as "_software, software this year, software IOS this year, hardware, gadgets, devices_". The more I specified  with my word choices, the easier I was able to find good apps or websites to get good information to put in my freedom project notes.
 
+Another one of the skills I've learned to use 
 
 | [Previous](entry01.md)[Next](entry03.md)
 
