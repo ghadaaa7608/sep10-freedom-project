@@ -30,7 +30,8 @@ And for my last search which was "_What kind of devices do people in archaeology
   * These were both found on [history.nebraska.gov](https://history.nebraska.gov/technology-in-archeology/)
 * And Dentil Picks can actually be used to clean the dirt from small artifacts from [www.in.gov](https://www.in.gov/dnr/historic-preservation/files/matching.pdf).
 ### EDP (Engineering Design Process)
+So far, in my Engineering Design Process, I figured out what topic I will be doing for the freedom project, being archaeology, searching up how it connected with SEP related things. I have now done tons of google searches about both **_archaeological software/apps, and hardware/gadgets_**, and I also took lots of notes throughout my google searching on the [SEP10 NOTES](https://docs.google.com/document/d/1tBU2sZEM4YFTHtE91UQto2EUElyU7UPzGTHyff7rLcI/edit?tab=t.0)[Previous](entry01.md) google doc. This has helped me find out what kind of stuff I'll be mentioning on my final website for the freedom project through giving me pretty significant details on how archaeology connects with SEP. 
 
-[Previous](entry01.md) | [Next](entry03.md)
+| [Next](entry03.md)
 
 [Home](../README.md)
