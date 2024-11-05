@@ -29,6 +29,7 @@ And for my last search which was "_What kind of devices do people in archaeology
 * Remote sensing helps archaeologists with deciding where to dig, or deciding if excavation is necessary.
   * These were both found on [history.nebraska.gov](https://history.nebraska.gov/technology-in-archeology/)
 * And Dentil Picks can actually be used to clean the dirt from small artifacts from [www.in.gov](https://www.in.gov/dnr/historic-preservation/files/matching.pdf).
+### EDP (Engineering Design Process)
 
 [Previous](entry01.md) | [Next](entry03.md)
 
