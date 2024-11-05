@@ -1,6 +1,7 @@
 # Entry 2: Researching Archaeology 
 ##### 11/4/24
 ### What did I find + How did I find it?
+---
 So far I've found a few **_Archaeology apps, and some Archaeological hardware/gadgets_**. I found these apps or hardware/gadgets throughout searching up stuff like "_Archaeology software this year, Archaeology software IOS this year, Archaeological hardware, Archaeological gadgets, and What kind of devices do people in archaeology use?_"
 #### Archaeology Apps
 I actually found out that one of the good apps to use for archaeology is [github](https://github.com/zackbatist/open-archaeo) because:
@@ -30,12 +31,15 @@ And for my last search which was "_What kind of devices do people in archaeology
   * These were both found on [history.nebraska.gov](https://history.nebraska.gov/technology-in-archeology/)
 * And Dentil Picks can actually be used to clean the dirt from small artifacts from [www.in.gov](https://www.in.gov/dnr/historic-preservation/files/matching.pdf).
 ### EDP (Engineering Design Process)
+---
 So far, in my Engineering Design Process, I figured out what topic I will be doing for the freedom project, being archaeology, searching up how it connected with SEP related things. I have now done tons of google searches about both **_archaeological software/apps, and hardware/gadgets_**, and I also took lots of notes throughout my google searching on the [SEP10 NOTES](https://docs.google.com/document/d/1tBU2sZEM4YFTHtE91UQto2EUElyU7UPzGTHyff7rLcI/edit?tab=t.0) google doc. This has helped me find out what kind of stuff I'll be mentioning on my final website for the freedom project through giving me pretty significant details on how archaeology connects with SEP. 
 ### Skills
+---
 One of the skills I've now adapted is just cutting straight to the point in my google searched by using specific key-words or phrases, such as "_software, software this year, software IOS this year, hardware, gadgets, devices_". The more I specified  with my word choices, the easier I was able to find good apps or websites to get good information to put in my freedom project notes. I also know that this will definitely help me when I'm building the final website with showing how archaeology connects with SEP in one way or  another.
 
 Another skill I've learned is to use the #webdesign server on slack whenever I'm stuck with a homework assignment, or just talk to somebody who's already done with the work/just knows what to do. This is because I've learned to do that through doing my CSS challenges or homework assignments that we were given, and I ended up being on the same page as those kids. It really did make me feel like everything was going to be okay as long as I had to just send a little message to my classmates giving a little rant about what I was stuck on, and they knew exactly what to respond back with.
 ### Summary
+---
 All I've got to say now is that I really do hope that I will take advantage of these useful strategies that I've adapted throughout the first unit of SEP10 in order to make this class easy for me, since I have been regretting signing up for it recently because of the extra stress it has caused me, and also to think about how this will help me with college. 
 
 | [Previous](entry01.md)[Next](entry03.md)
