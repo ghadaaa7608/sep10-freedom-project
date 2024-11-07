@@ -18,6 +18,7 @@ And I found this app through searching up "_Archaeology software IOS this year_"
 So when I searched up "_Archaeological hardware_", I found out that:
 * Trowels are the most iconic and most often used tool in archaeology from [histarch.illinois.edu](http://www.histarch.illinois.edu/np/tools.html)
 * And a total station is an electronic instrument that’s used to measure angles and distances, specifically for slopes from [zagoraarchaeologicalproject.org](https://zagoraarchaeologicalproject.org/the-project/archaeological-field-tools-and-methods/)
+
 When I searched up  "_Archaeological gadgets_", I found out that:
 * Digital technology actually saves big amounts of time and limits digging.
 * VR recreations help bring the past to life.
