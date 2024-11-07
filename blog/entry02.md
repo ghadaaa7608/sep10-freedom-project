@@ -26,6 +26,7 @@ When I searched up  "_Archaeological gadgets_", I found out that:
 * Shovels, trowels, spades, brushes, sieves, and buckets are some of the common tools that an archaeologist may carry with them for digging.
 * Tool types differ depending on what type of excavation is being done.
   * And both of these are from [sandiearchaeology.org](https://sandiegoarchaeology.org/dig-deeper-what-tools-do-archaeologists-use/)
+
 And for my last search which was "_What kind of devices do people in archaeology use?_", I found out that:
 * Geophysical survey is one of the ways to investigate archeological sites before, or instead of, testing and excavation.
 * Remote sensing helps archaeologists with deciding where to dig, or deciding if excavation is necessary.
