@@ -8,8 +8,7 @@ I actually found out that one of the good apps to use for archaeology is [github
 * This could be a great app to make writeups.
   * Like this one!
 * This can be used to take notes.
-* And it can be used to make important labeled folders.
-I found this app through searching up "_Archaeology software this year_".
+* And it can be used to make important labeled folders. I found this app through searching up "_Archaeology software this year_".
 Another app I found pretty useful in archaeology is [heritagedaily](https://www.heritagedaily.com/application) because:
 * This app is good for online public news of archaeological and heritage discoveries.
 * And it brings rich and diverse content with just a touch of your finger tips.
