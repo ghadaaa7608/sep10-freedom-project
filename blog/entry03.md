@@ -26,9 +26,11 @@ The sources that I used for _most commonly/recently used software/hardware_ were
 * [github.com](https://github.com/zackbatist/open-archaeo)
 * [heritagedaily.com](https://www.heritagedaily.com/application)
 * And [upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/8/8a/TrowelPS.jpg) for the image of the trowel
+
 The sources that I used for _software/hardware used to save time_ were:
 * [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Geophysical_survey,_Long_Meg_%5E_Her_Daughters_-_geograph.org.uk_-_3379873.jpg) for the image of the geophysical survey.
 * And [flickr.com](https://www.flickr.com/photos/blmoregon/48252302026/in/photostream/) for the image of the remote sensing.
+
 And the sources that I used for _software/hardware that has a specific use_ were:
 * [github.com](https://github.com/zackbatist/open-archaeo)
 * [heritagedail.com](https://www.heritagedaily.com/application)
