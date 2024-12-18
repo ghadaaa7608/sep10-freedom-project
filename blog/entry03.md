@@ -19,7 +19,26 @@ This was since I saw all these specific patterns throughout the **_Archaeologica
 * **_Intro/Context/Overview_**
 * **_Archaeological Software/Hardware_**
 ***_Future Archaeological Inventions_**
+## Sources
+The sources that I used for _most commonly/recently used software/hardware_ were:
+* [electricarchaeology.ca](https://electricarchaeology.ca/2024/09/27/home-cooked-software-for-the-archaeologist-or-historian/)
+* [princeton.edu](https://www.princeton.edu/news/2024/04/09/princeton-archaeologists-are-using-cutting-edge-digital-technologies-help-reveal)
+* [github.com](https://github.com/zackbatist/open-archaeo)
+* [heritagedaily.com](https://www.heritagedaily.com/application)
+* And [upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/8/8a/TrowelPS.jpg) for the image of the trowel
+The sources that I used for _software/hardware used to save time_ were:
+* [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Geophysical_survey,_Long_Meg_%5E_Her_Daughters_-_geograph.org.uk_-_3379873.jpg) for the image of the geophysical survey.
+* And [flickr.com](https://www.flickr.com/photos/blmoregon/48252302026/in/photostream/) for the image of the remote sensing.
+And the sources that I used for _software/hardware that has a specific use_ were:
+* [github.com](https://github.com/zackbatist/open-archaeo)
+* [heritagedail.com](https://www.heritagedaily.com/application)
+* [zagoraarchaeologicalproject.org](https://zagoraarchaeologicalproject.org/the-project/archaeological-field-tools-and-methods/)
+* [flickr.com](https://www.flickr.com/photos/visummedia/35016471816/in/photostream/) for the photo of the total station
+* [in.gov](https://www.in.gov/dnr/historic-preservation/files/matching.pdf)
+* And [freeimageslive.co.uk](http://www.freeimageslive.co.uk/free_stock_image/dentist-mirror-jpg) for the photo of the dentil pick.
+##
 
-   [Previous](entry02.md) | [Next](entry04.md)
+
 
 [Home](../README.md)
+ [Previous](entry02.md) | [Next](entry04.md)
