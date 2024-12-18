@@ -1,8 +1,25 @@
 # Entry 3
 ##### 12/18/24
+## How Did I Brainstorm Future Archaeological Inventions
+I first brainstormed my future archaeological inventions by thinking about what archaeologists still need/have a disadavantage of, so I kept thinking about these 3 things:
+* AI
+* Holograms
+* Robots
+I also looked back at the already existing inventions that I already put down in my [SEP notes](https://docs.google.com/document/d/1tBU2sZEM4YFTHtE91UQto2EUElyU7UPzGTHyff7rLcI/edit?tab=t.0), which is how I created the 3 following inventions:
+* An Ancient AI-translator
+* An Ancient AI-art creator
+* And A Robotic Excavator
+I thought of the first one due to thinking about how we already have google translate, but it isn't really a proper translation of languages most of the time. I also thought about how historical linguists still have so many ancient languages that they don't know how to read, teach, or speak in properly. So boom an ancient AI-translator. I thought of the second one by thinking about all this AI art pieces/videos that have been going around, and I thought that could really tie into historical events or people that we don't know anything about. I also thought about how this art could educate people on this person or event as well, which is how I thought of an ancient AI-art creator. Now finally for my third invention, this was the one where I looked through my archaeological hardware, and I was just thinking "_have I done a hologram yet?_". I realized that I didn't, and I saw how everybody else was doing holograms, so that's how the hologram part tied in. I also was just thinking about how the invention would actually help in the real world through educating and giving archaeologists more experience, and that's how it came out to be.
+## How Did I Finalize All Of My Content?
+The way I finalized it if you would say was that during one freedom monday, I had to organize all my notes from the **_Archaeological Software/Hardware_** into all different types  of sections, so I organized it like this:
+* Most Commonly/Recently Used Software/Hardware
+* Software/Hardware Used To Save Time
+* And Software/Hardware That Has A Specific Use
+This was since I saw all these specific patterns throughout the **_Archaeological Software/Hardware_** notes, I had also done a do now that day where we organized vehicles into different groups so that it would kinda help or guide me a bit. I had also done the **_Intro/Context/Overview_** and **_Future Archaeological Inventions_** prior to the previous part, so when I was done with all my notes that I'd gotten from both parts, it was then time to put it all into one doc for all the information for my website. I already had everything in my freedom project section in my notes-- I pretty much had to copy and paste everything into the doc, but I had it in this order because it just made sense:
+* **_Intro/Context/Overview_**
+* **_Archaeological Software/Hardware_**
+***_Future Archaeological Inventions_**
 
-
-
-[Previous](entry02.md) | [Next](entry04.md)
+   [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
