@@ -5,10 +5,12 @@ I first brainstormed my future archaeological inventions by thinking about what 
 * AI
 * Holograms
 * Robots
+
 I also looked back at the already existing inventions that I already put down in my [SEP notes](https://docs.google.com/document/d/1tBU2sZEM4YFTHtE91UQto2EUElyU7UPzGTHyff7rLcI/edit?tab=t.0), which is how I created the 3 following inventions:
 * An Ancient AI-translator
 * An Ancient AI-art creator
 * And A Robotic Excavator
+
 I thought of the first one due to thinking about how we already have google translate, but it isn't really a proper translation of languages most of the time. I also thought about how historical linguists still have so many ancient languages that they don't know how to read, teach, or speak in properly. So boom an ancient AI-translator. I thought of the second one by thinking about all this AI art pieces/videos that have been going around, and I thought that could really tie into historical events or people that we don't know anything about. I also thought about how this art could educate people on this person or event as well, which is how I thought of an ancient AI-art creator. Now finally for my third invention, this was the one where I looked through my archaeological hardware, and I was just thinking "_have I done a hologram yet?_". I realized that I didn't, and I saw how everybody else was doing holograms, so that's how the hologram part tied in. I also was just thinking about how the invention would actually help in the real world through educating and giving archaeologists more experience, and that's how it came out to be.
 ## How Did I Finalize All Of My Content?
 The way I finalized it if you would say was that during one freedom monday, I had to organize all my notes from the **_Archaeological Software/Hardware_** into all different types  of sections, so I organized it like this:
